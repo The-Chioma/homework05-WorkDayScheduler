@@ -43,5 +43,11 @@ for (var i = 9; i < 18; i++) {
     if (i === currentHourNo) {
         textInput.addClass("present");
     }   
+      
+
+$(".saveBtn").on("click", function(){
+   //need to figure out local storage and saving after refreshing.
     
-}
+
+})
+
