@@ -31,11 +31,12 @@ THEN the saved events persist
 
 
 
-The URL of the deployed application.
+
+## The URL of the deployed application.
 
 https://the-chioma.github.io/homework05-WorkDayScheduler/
 
-The URL of the GitHub repository. 
+## The URL of the GitHub repository. 
 
 https://github.com/The-Chioma/homework05-WorkDayScheduler 
 
