@@ -21,7 +21,7 @@ for (var i = 9; i < 18; i++) {
     newDiv.attr("id", i.toString());
 
     //this is where the time hours are displayed
-    var timeHolder = $("<h4>");
+    var timeHolder = $("<h6>");
     timeHolder.attr("class", "col-2");
     timeHolder.text(i + ":00");
     newDiv.append(timeHolder);
